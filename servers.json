@@ -43,6 +43,10 @@
     {
       "name": "iDH Server",
       "address": "https://ani.idevicehacked.com"
+    },
+    {
+      "name": "timhaozi Server",
+      "address": "https://anisette-server.timhaozi.top:8443"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
